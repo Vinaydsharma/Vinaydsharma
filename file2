@@ -1,3 +1,8 @@
 hello
 this is file has been modified by mybranch
+<<<<<<< HEAD
 hello
+=======
+main
+mybrance
+>>>>>>> mybranch
